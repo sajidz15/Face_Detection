@@ -20,4 +20,4 @@ A web application that detects faces in uploaded images using AI technology.
 ## Installation
 
 1. **Clone the repository**:
-2. 
+2. https://github.com/sajidz15/Face_Detection
